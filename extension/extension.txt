@@ -1,2 +1,0 @@
-Hello, this is a folder to store all the files needed for the extension in penguinmod, you can make a pull request to add more blocks 
-or if you dont know how to code but you need a feature or found a bug just tell me and I will look into it, 
